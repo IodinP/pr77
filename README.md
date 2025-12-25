@@ -38,5 +38,6 @@
 
 Импортировал образ из tar и запустил его
 
-<img width="1073" height="522" alt="image" src="https://github.com/user-attachments/assets/6df2fadd-cd92-4c65-941b-fa4cc1609e6f" />
+<img width="1126" height="879" alt="image" src="https://github.com/user-attachments/assets/6bf56111-866f-4a63-a236-0b1c2b83fa3f" />
+
 
